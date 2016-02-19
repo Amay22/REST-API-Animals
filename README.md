@@ -4,11 +4,11 @@
 
 ## Install
 
-    bundle install
+```bundle install```
 
 ## Run the app
 
-``` bundle exec rackup -p 9000 .\config.ru```
+```bundle exec rackup -p 9000 .\config.ru```
 
 ## Run the API
 
@@ -18,11 +18,11 @@ Animals : Animal, Dog, Cat, Rat, Dolphin, Lion
 Actions : Sound, work, action, type
 
 
-GET /Animal/type/
-GET /Dog/Sound/
-GET /Cat/action/
-GET /Rat/work/
-GET /Lion/type/
+```GET /Animal/type/```
+```GET /Dog/Sound/```
+```GET /Cat/action/```
+```GET /Rat/work/```
+```GET /Lion/type/```
 
 
 
